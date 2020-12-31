@@ -1,0 +1,58 @@
+2020-08-25 18:05:27,334 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-25 18:08:29,003 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-25 18:08:44,749 :INFO : pytestFramework.test_logging :Information statement
+2020-08-25 18:08:44,749 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-25 18:08:44,749 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-25 18:08:44,749 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:39:39,561 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:39:39,562 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:39:39,562 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:39:39,563 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:41:37,814 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:41:37,814 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:41:37,814 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:41:37,814 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:43:28,141 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:43:28,141 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:43:28,141 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:43:28,141 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:44:52,960 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:44:52,960 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:44:52,961 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:44:52,961 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:46:01,290 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:46:01,290 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:46:01,290 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:46:01,291 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:47:02,738 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:47:02,738 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:47:02,738 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:47:02,738 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:48:03,500 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:48:03,500 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:48:03,500 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:48:03,501 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 09:54:31,748 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 09:54:31,748 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 09:54:31,748 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 09:54:31,749 :CRITICAL : pytestFramework.test_logging :Critical issue
+2020-08-26 10:34:14,545 :INFO : pytestFramework.BaseClass :Information statement
+2020-08-26 10:34:14,545 :WARNING : pytestFramework.BaseClass :Something is in warning mode
+2020-08-26 10:34:14,545 :ERROR : pytestFramework.BaseClass :A Major error has happend
+2020-08-26 10:34:14,545 :CRITICAL : pytestFramework.BaseClass :Critical issue
+2020-08-26 10:34:14,545 :INFO : pytestFramework.BaseClass :Rasheed
+2020-08-26 10:34:14,546 :INFO : pytestFramework.BaseClass :7899298070
+2020-08-26 10:39:38,975 :INFO : test_editProfile :Information statement
+2020-08-26 10:39:38,975 :WARNING : test_editProfile :Something is in warning mode
+2020-08-26 10:39:38,975 :ERROR : test_editProfile :A Major error has happend
+2020-08-26 10:39:38,975 :CRITICAL : test_editProfile :Critical issue
+2020-08-26 10:39:38,975 :INFO : test_editProfile :Rasheed
+2020-08-26 10:39:38,976 :INFO : test_editProfile :7899298070
+2020-08-26 10:40:30,713 :INFO : test_editProfile :Rasheed
+2020-08-26 10:40:30,714 :INFO : test_editProfile :7899298070
+2020-08-26 12:06:14,765 :INFO : test_editProfile :Rasheed
+2020-08-26 12:06:14,765 :INFO : test_editProfile :7899298070
+2020-08-26 12:06:14,773 :INFO : pytestFramework.test_logging :Information statement
+2020-08-26 12:06:14,773 :WARNING : pytestFramework.test_logging :Something is in warning mode
+2020-08-26 12:06:14,773 :ERROR : pytestFramework.test_logging :A Major error has happend
+2020-08-26 12:06:14,774 :CRITICAL : pytestFramework.test_logging :Critical issue
